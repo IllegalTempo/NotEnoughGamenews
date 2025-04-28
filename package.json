@@ -1,0 +1,25 @@
+{
+  "name": "not_enough_gamenews",
+  "version": "0.0.1",
+  "description": "NEG (Not Enough Gamenews) is a discord bot dedicated to send gaming news in discord in a fancy and easy to access way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IllegalTempo/NotEnoughGamenews.git"
+  },
+  "author": "IllegalTempo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IllegalTempo/NotEnoughGamenews/issues"
+  },
+  "homepage": "https://github.com/IllegalTempo/NotEnoughGamenews#readme",
+  "dependencies": {
+    "discord.js": "^14.19.1",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.7.2"
+  }
+}
